@@ -1,0 +1,15 @@
+C:\ProjectRef\solving-problem-by-deleting-files\FileDeletingProblemProject\FileDeletingProblemProject\bin\Debug\net6.0\FileDeletingProblemProject.exe
+C:\ProjectRef\solving-problem-by-deleting-files\FileDeletingProblemProject\FileDeletingProblemProject\bin\Debug\net6.0\FileDeletingProblemProject.deps.json
+C:\ProjectRef\solving-problem-by-deleting-files\FileDeletingProblemProject\FileDeletingProblemProject\bin\Debug\net6.0\FileDeletingProblemProject.runtimeconfig.json
+C:\ProjectRef\solving-problem-by-deleting-files\FileDeletingProblemProject\FileDeletingProblemProject\bin\Debug\net6.0\FileDeletingProblemProject.dll
+C:\ProjectRef\solving-problem-by-deleting-files\FileDeletingProblemProject\FileDeletingProblemProject\bin\Debug\net6.0\ref\FileDeletingProblemProject.dll
+C:\ProjectRef\solving-problem-by-deleting-files\FileDeletingProblemProject\FileDeletingProblemProject\bin\Debug\net6.0\FileDeletingProblemProject.pdb
+C:\ProjectRef\solving-problem-by-deleting-files\FileDeletingProblemProject\FileDeletingProblemProject\obj\Debug\net6.0\FileDeletingProblemProject.csproj.AssemblyReference.cache
+C:\ProjectRef\solving-problem-by-deleting-files\FileDeletingProblemProject\FileDeletingProblemProject\obj\Debug\net6.0\FileDeletingProblemProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectRef\solving-problem-by-deleting-files\FileDeletingProblemProject\FileDeletingProblemProject\obj\Debug\net6.0\FileDeletingProblemProject.AssemblyInfoInputs.cache
+C:\ProjectRef\solving-problem-by-deleting-files\FileDeletingProblemProject\FileDeletingProblemProject\obj\Debug\net6.0\FileDeletingProblemProject.AssemblyInfo.cs
+C:\ProjectRef\solving-problem-by-deleting-files\FileDeletingProblemProject\FileDeletingProblemProject\obj\Debug\net6.0\FileDeletingProblemProject.csproj.CoreCompileInputs.cache
+C:\ProjectRef\solving-problem-by-deleting-files\FileDeletingProblemProject\FileDeletingProblemProject\obj\Debug\net6.0\FileDeletingProblemProject.dll
+C:\ProjectRef\solving-problem-by-deleting-files\FileDeletingProblemProject\FileDeletingProblemProject\obj\Debug\net6.0\ref\FileDeletingProblemProject.dll
+C:\ProjectRef\solving-problem-by-deleting-files\FileDeletingProblemProject\FileDeletingProblemProject\obj\Debug\net6.0\FileDeletingProblemProject.pdb
+C:\ProjectRef\solving-problem-by-deleting-files\FileDeletingProblemProject\FileDeletingProblemProject\obj\Debug\net6.0\FileDeletingProblemProject.genruntimeconfig.cache
